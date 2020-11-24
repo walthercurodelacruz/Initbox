@@ -85,6 +85,7 @@ Puerto Mysql: 3306
 Puerto Postgresql: 5432
 Puerto SSH: 22
 Puerto Apache: 80
+
 Initbox cuenta con dos tarjetas de red virtuales, 
 una de ellas en configuración NAT para permitirle salida a 
 Internet y la otra se encuentra en DHCP mediante la configuración 
@@ -101,7 +102,7 @@ Asi mismo se puede acceder mediante Webmin bajo la
 IP: https://192.168.56.102:10000/ o 
 mediante: https://initserver:10000/
 
-PhpMyAdmin tambien esta habiltado mediante: 
+PhpMyAdmin también esta habilitado mediante: 
 http://192.168.56.102/phpmyadmin/
 
 Importante: No olvidar que la IP podría variar en cada 
