@@ -1,0 +1,12 @@
+Usuario Dios (Linux) : root / Contraseña: s5st6m8s
+Usuario Principal (Linux): init / Contraseña: s5st6m8s
+Usuario Postgres (Postgresql) : postgres / Contraseña: s5st6m8s
+Usuario Mysql (BD) : initmysql / Contraseña: s5st6m8s
+Usuario Postgresql (BD) : initpostgresql / Contraseña: s5st6m8s
+Usuario Phpmyadmin: initmysql / Contraseña: s5st6m8s
+Usuario Webmin: root / Contraseña: s5st6m8s
+Puerto Webmin: 10000
+Puerto Mysql: 3306
+Puerto Postgresql: 5432
+Puerto SSH: 22
+Puerto Apache: 80
