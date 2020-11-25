@@ -1,0 +1,14 @@
+Apache 2.4.41
+PHP 7.4.3
+MySql 8.0.22
+Postgresql 12.5
+Python 2.7.18
+Python 3.8.5
+SSH 8.2
+Webmin 1.9.62
+PhpMysql
+PhpMailer
+Próximamente Samba y FTP.
+
+Link de descarga: https://mega.nz/folder/ZfplmIgJ#FMvy0ycTeKJ_ogmzsJNxdA
+
